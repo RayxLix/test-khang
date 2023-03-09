@@ -71,7 +71,7 @@ main{
 }
 .slider-main{
   margin-top: 12px;
-  background: url(/assets/photo/slider-main.jpg) center center /cover no-repeat;
+  background: url(./../photo/slider-main.jpg) center center /cover no-repeat;
   padding-top: 50%;
   position: relative;
 }
